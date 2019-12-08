@@ -34,4 +34,4 @@ end
     @total -= @last_amount
   end 
 
-end 
+
